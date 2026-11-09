@@ -1,5 +1,5 @@
 {
-  "client_id": "https://rick987-beep.github.io/fraud0-mcp-client/moss-client-v2.json",
+  "client_id": "https://raw.githubusercontent.com/Rick987-beep/fraud0-mcp-client/main/moss-client-v2.json",
   "client_name": "fraud0 finance (Cursor)",
   "client_uri": "https://rick987-beep.github.io/fraud0-mcp-client/",
   "redirect_uris": [
