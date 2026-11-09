@@ -1,0 +1,18 @@
+{
+  "client_id": "https://rick987-beep.github.io/fraud0-mcp-client/moss-client.json",
+  "client_name": "fraud0 finance (Cursor)",
+  "client_uri": "https://rick987-beep.github.io/fraud0-mcp-client/",
+  "redirect_uris": [
+    "cursor://anysphere.cursor-mcp/oauth/callback",
+    "http://localhost/callback",
+    "http://127.0.0.1/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
