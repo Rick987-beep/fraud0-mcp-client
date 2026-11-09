@@ -5,7 +5,11 @@
   "redirect_uris": [
     "cursor://anysphere.cursor-mcp/oauth/callback",
     "http://localhost/callback",
-    "http://127.0.0.1/callback"
+    "http://127.0.0.1/callback",
+    "http://localhost:21325/oauth/callback",
+    "http://127.0.0.1:21325/oauth/callback",
+    "http://127.0.0.1:8787/callback",
+    "http://localhost:8787/callback"
   ],
   "grant_types": [
     "authorization_code",
@@ -14,5 +18,6 @@
   "response_types": [
     "code"
   ],
-  "token_endpoint_auth_method": "none"
+  "token_endpoint_auth_method": "none",
+  "scope": "read"
 }
